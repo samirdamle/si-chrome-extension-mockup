@@ -1,0 +1,545 @@
+[
+  {
+    "name": "William Parker",
+    "position": "Account Representative ",
+    "company": "Amazon",
+    "address": "1234 Oak St, Seattle, WA",
+    "phoneNumbers": [
+      { "type": "M", "value": "(202) 570-5557" },
+      { "type": "B", "value": "(202) 442-2949" },
+      { "type": "H", "value": "(202) 266-1000" }
+    ],
+    "emails": [
+      { "type": "B", "value": "someuser@amazon.com" },
+      { "type": "P", "value": "anotheruserwithalongemail@yahoo.com" }
+    ]
+  },
+
+  {
+    "name": "Patricia Abiola",
+    "position": "Senior Executive Recruiter ",
+    "company": "Amazon",
+    "address": "1234 Oak St, Seattle, WA",
+    "phoneNumbers": [
+      { "type": "M", "value": "(202) 570-5557" },
+      { "type": "B", "value": "(202) 442-2949" },
+      { "type": "H", "value": "(202) 266-1000" }
+    ],
+    "emails": [
+      { "type": "B", "value": "someuser@amazon.com" },
+      { "type": "P", "value": "anotheruserwithalongemail@yahoo.com" }
+    ]
+  },
+
+  {
+    "name": "Barbara Bell",
+    "position": "Public Policy, Project Kuiper ",
+    "company": "Amazon",
+    "address": "1234 Oak St, Seattle, WA",
+    "phoneNumbers": [
+      { "type": "M", "value": "(202) 570-5557" },
+      { "type": "B", "value": "(202) 442-2949" },
+      { "type": "H", "value": "(202) 266-1000" }
+    ],
+    "emails": [
+      { "type": "B", "value": "someuser@amazon.com" },
+      { "type": "P", "value": "anotheruserwithalongemail@yahoo.com" }
+    ]
+  },
+
+  {
+    "name": "Ashish Sharma",
+    "position": "Director, WW Live Operations ",
+    "company": "Amazon",
+    "address": "1234 Oak St, Seattle, WA",
+    "phoneNumbers": [
+      { "type": "M", "value": "(202) 570-5557" },
+      { "type": "B", "value": "(202) 442-2949" },
+      { "type": "H", "value": "(202) 266-1000" }
+    ],
+    "emails": [
+      { "type": "B", "value": "someuser@amazon.com" },
+      { "type": "P", "value": "anotheruserwithalongemail@yahoo.com" }
+    ]
+  },
+
+  {
+    "name": "Charles Allen",
+    "position": "Principal Product Manager, Just Walk Out ",
+    "company": "Amazon",
+    "address": "1234 Oak St, Seattle, WA",
+    "phoneNumbers": [
+      { "type": "M", "value": "(202) 570-5557" },
+      { "type": "B", "value": "(202) 442-2949" },
+      { "type": "H", "value": "(202) 266-1000" }
+    ],
+    "emails": [
+      { "type": "B", "value": "someuser@amazon.com" },
+      { "type": "P", "value": "anotheruserwithalongemail@yahoo.com" }
+    ]
+  },
+
+  {
+    "name": "Steven Allen",
+    "position": "Vice President, Global Business Services & Advisor to The Chief Financial Officer (CFO) ",
+    "company": "Amazon",
+    "address": "1234 Oak St, Seattle, WA",
+    "phoneNumbers": [
+      { "type": "M", "value": "(202) 570-5557" },
+      { "type": "B", "value": "(202) 442-2949" },
+      { "type": "H", "value": "(202) 266-1000" }
+    ],
+    "emails": [
+      { "type": "B", "value": "someuser@amazon.com" },
+      { "type": "P", "value": "anotheruserwithalongemail@yahoo.com" }
+    ]
+  },
+
+  {
+    "name": "Kristen Armato",
+    "position": "Vice President, Software Development ",
+    "company": "Amazon",
+    "address": "1234 Oak St, Seattle, WA",
+    "phoneNumbers": [
+      { "type": "M", "value": "(202) 570-5557" },
+      { "type": "B", "value": "(202) 442-2949" },
+      { "type": "H", "value": "(202) 266-1000" }
+    ],
+    "emails": [
+      { "type": "B", "value": "someuser@amazon.com" },
+      { "type": "P", "value": "anotheruserwithalongemail@yahoo.com" }
+    ]
+  },
+
+  {
+    "name": "AndyAronson",
+    "position": "Manager, Partner Development Team - Amazon Advertising ",
+    "company": "Amazon",
+    "address": "1234 Oak St, Seattle, WA",
+    "phoneNumbers": [
+      { "type": "M", "value": "(202) 570-5557" },
+      { "type": "B", "value": "(202) 442-2949" },
+      { "type": "H", "value": "(202) 266-1000" }
+    ],
+    "emails": [
+      { "type": "B", "value": "someuser@amazon.com" },
+      { "type": "P", "value": "anotheruserwithalongemail@yahoo.com" }
+    ]
+  },
+
+  {
+    "name": "Mike Aupperlee",
+    "position": "Manager, Senior World - Wide Technology Business Development ",
+    "company": "Amazon",
+    "address": "1234 Oak St, Seattle, WA",
+    "phoneNumbers": [
+      { "type": "M", "value": "(202) 570-5557" },
+      { "type": "B", "value": "(202) 442-2949" },
+      { "type": "H", "value": "(202) 266-1000" }
+    ],
+    "emails": [
+      { "type": "B", "value": "someuser@amazon.com" },
+      { "type": "P", "value": "anotheruserwithalongemail@yahoo.com" }
+    ]
+  },
+
+  {
+    "name": "Jared Axelrod",
+    "position": "Senior Manager, Public Policy ",
+    "company": "Amazon",
+    "address": "1234 Oak St, Seattle, WA",
+    "phoneNumbers": [
+      { "type": "M", "value": "(202) 570-5557" },
+      { "type": "B", "value": "(202) 442-2949" },
+      { "type": "H", "value": "(202) 266-1000" }
+    ],
+    "emails": [
+      { "type": "B", "value": "someuser@amazon.com" },
+      { "type": "P", "value": "anotheruserwithalongemail@yahoo.com" }
+    ]
+  },
+
+  {
+    "name": "Victoria Johnson",
+    "position": "Account Manager ",
+    "company": "Amazon",
+    "address": "1234 Oak St, Seattle, WA",
+    "phoneNumbers": [
+      { "type": "M", "value": "(202) 570-5557" },
+      { "type": "B", "value": "(202) 442-2949" },
+      { "type": "H", "value": "(202) 266-1000" }
+    ],
+    "emails": [
+      { "type": "B", "value": "someuser@amazon.com" },
+      { "type": "P", "value": "anotheruserwithalongemail@yahoo.com" }
+    ]
+  },
+
+  {
+    "name": "Laynette Bahr",
+    "position": "Senior Accounting Manager, WW Consumer Projects ",
+    "company": "Amazon",
+    "address": "1234 Oak St, Seattle, WA",
+    "phoneNumbers": [
+      { "type": "M", "value": "(202) 570-5557" },
+      { "type": "B", "value": "(202) 442-2949" },
+      { "type": "H", "value": "(202) 266-1000" }
+    ],
+    "emails": [
+      { "type": "B", "value": "someuser@amazon.com" },
+      { "type": "P", "value": "anotheruserwithalongemail@yahoo.com" }
+    ]
+  },
+
+  {
+    "name": "Chris Baron",
+    "position": "Manager, Legal Business Operations ",
+    "company": "Amazon",
+    "address": "1234 Oak St, Seattle, WA",
+    "phoneNumbers": [
+      { "type": "M", "value": "(202) 570-5557" },
+      { "type": "B", "value": "(202) 442-2949" },
+      { "type": "H", "value": "(202) 266-1000" }
+    ],
+    "emails": [
+      { "type": "B", "value": "someuser@amazon.com" },
+      { "type": "P", "value": "anotheruserwithalongemail@yahoo.com" }
+    ]
+  },
+
+  {
+    "name": "Gary Baron",
+    "position": "Principal Solutions Architect ",
+    "company": "Amazon",
+    "address": "1234 Oak St, Seattle, WA",
+    "phoneNumbers": [
+      { "type": "M", "value": "(202) 570-5557" },
+      { "type": "B", "value": "(202) 442-2949" },
+      { "type": "H", "value": "(202) 266-1000" }
+    ],
+    "emails": [
+      { "type": "B", "value": "someuser@amazon.com" },
+      { "type": "P", "value": "anotheruserwithalongemail@yahoo.com" }
+    ]
+  },
+
+  {
+    "name": "Joe Bendes",
+    "position": "Director, Global Indirect Taxes & Tax Technology ",
+    "company": "Amazon",
+    "address": "1234 Oak St, Seattle, WA",
+    "phoneNumbers": [
+      { "type": "M", "value": "(202) 570-5557" },
+      { "type": "B", "value": "(202) 442-2949" },
+      { "type": "H", "value": "(202) 266-1000" }
+    ],
+    "emails": [
+      { "type": "B", "value": "someuser@amazon.com" },
+      { "type": "P", "value": "anotheruserwithalongemail@yahoo.com" }
+    ]
+  },
+
+  {
+    "name": "Anand Biswas",
+    "position": "Global Sales Leader - US to Japan & Australia ",
+    "company": "Amazon",
+    "address": "1234 Oak St, Seattle, WA",
+    "phoneNumbers": [
+      { "type": "M", "value": "(202) 570-5557" },
+      { "type": "B", "value": "(202) 442-2949" },
+      { "type": "H", "value": "(202) 266-1000" }
+    ],
+    "emails": [
+      { "type": "B", "value": "someuser@amazon.com" },
+      { "type": "P", "value": "anotheruserwithalongemail@yahoo.com" }
+    ]
+  },
+
+  {
+    "name": "Chris Boden",
+    "position": "Human Resources Director, International Consumer ",
+    "company": "Amazon",
+    "address": "1234 Oak St, Seattle, WA",
+    "phoneNumbers": [
+      { "type": "M", "value": "(202) 570-5557" },
+      { "type": "B", "value": "(202) 442-2949" },
+      { "type": "H", "value": "(202) 266-1000" }
+    ],
+    "emails": [
+      { "type": "B", "value": "someuser@amazon.com" },
+      { "type": "P", "value": "anotheruserwithalongemail@yahoo.com" }
+    ]
+  },
+
+  {
+    "name": "Jennifer Bodlovic",
+    "position": "Director, Employee Services Technology ",
+    "company": "Amazon",
+    "address": "1234 Oak St, Seattle, WA",
+    "phoneNumbers": [
+      { "type": "M", "value": "(202) 570-5557" },
+      { "type": "B", "value": "(202) 442-2949" },
+      { "type": "H", "value": "(202) 266-1000" }
+    ],
+    "emails": [
+      { "type": "B", "value": "someuser@amazon.com" },
+      { "type": "P", "value": "anotheruserwithalongemail@yahoo.com" }
+    ]
+  },
+
+  {
+    "name": "Alex Bol",
+    "position": "Program Manager, Principal Engineer Community ",
+    "company": "Amazon",
+    "address": "1234 Oak St, Seattle, WA",
+    "phoneNumbers": [
+      { "type": "M", "value": "(202) 570-5557" },
+      { "type": "B", "value": "(202) 442-2949" },
+      { "type": "H", "value": "(202) 266-1000" }
+    ],
+    "emails": [
+      { "type": "B", "value": "someuser@amazon.com" },
+      { "type": "P", "value": "anotheruserwithalongemail@yahoo.com" }
+    ]
+  },
+
+  {
+    "name": "Colleen Boroda",
+    "position": "Enterprise Solutions Architect, HCLS ",
+    "company": "Amazon",
+    "address": "1234 Oak St, Seattle, WA",
+    "phoneNumbers": [
+      { "type": "M", "value": "(202) 570-5557" },
+      { "type": "B", "value": "(202) 442-2949" },
+      { "type": "H", "value": "(202) 266-1000" }
+    ],
+    "emails": [
+      { "type": "B", "value": "someuser@amazon.com" },
+      { "type": "P", "value": "anotheruserwithalongemail@yahoo.com" }
+    ]
+  },
+
+  {
+    "name": "David Bowman",
+    "position": "Government Technologies - Account Manager ",
+    "company": "Amazon",
+    "address": "1234 Oak St, Seattle, WA",
+    "phoneNumbers": [
+      { "type": "M", "value": "(202) 570-5557" },
+      { "type": "B", "value": "(202) 442-2949" },
+      { "type": "H", "value": "(202) 266-1000" }
+    ],
+    "emails": [
+      { "type": "B", "value": "someuser@amazon.com" },
+      { "type": "P", "value": "anotheruserwithalongemail@yahoo.com" }
+    ]
+  },
+
+  {
+    "name": "Cassidy Bray",
+    "position": "Senior Manager, Product Management - Customer Trust & Partner Support ",
+    "company": "Amazon",
+    "address": "1234 Oak St, Seattle, WA",
+    "phoneNumbers": [
+      { "type": "M", "value": "(202) 570-5557" },
+      { "type": "B", "value": "(202) 442-2949" },
+      { "type": "H", "value": "(202) 266-1000" }
+    ],
+    "emails": [
+      { "type": "B", "value": "someuser@amazon.com" },
+      { "type": "P", "value": "anotheruserwithalongemail@yahoo.com" }
+    ]
+  },
+
+  {
+    "name": "Zane Brazeau",
+    "position": "Program Manager, Corporate Social Responsibility ",
+    "company": "Amazon",
+    "address": "1234 Oak St, Seattle, WA",
+    "phoneNumbers": [
+      { "type": "M", "value": "(202) 570-5557" },
+      { "type": "B", "value": "(202) 442-2949" },
+      { "type": "H", "value": "(202) 266-1000" }
+    ],
+    "emails": [
+      { "type": "B", "value": "someuser@amazon.com" },
+      { "type": "P", "value": "anotheruserwithalongemail@yahoo.com" }
+    ]
+  },
+
+  {
+    "name": "Amber Brown",
+    "position": "Vice President, and Associate General Counsel, Labor and Employment ",
+    "company": "Amazon",
+    "address": "1234 Oak St, Seattle, WA",
+    "phoneNumbers": [
+      { "type": "M", "value": "(202) 570-5557" },
+      { "type": "B", "value": "(202) 442-2949" },
+      { "type": "H", "value": "(202) 266-1000" }
+    ],
+    "emails": [
+      { "type": "B", "value": "someuser@amazon.com" },
+      { "type": "P", "value": "anotheruserwithalongemail@yahoo.com" }
+    ]
+  },
+
+  {
+    "name": "Bill Bula",
+    "position": "Business Development / Channel Sales - Global Fulfillment by Amazon ",
+    "company": "Amazon",
+    "address": "1234 Oak St, Seattle, WA",
+    "phoneNumbers": [
+      { "type": "M", "value": "(202) 570-5557" },
+      { "type": "B", "value": "(202) 442-2949" },
+      { "type": "H", "value": "(202) 266-1000" }
+    ],
+    "emails": [
+      { "type": "B", "value": "someuser@amazon.com" },
+      { "type": "P", "value": "anotheruserwithalongemail@yahoo.com" }
+    ]
+  },
+
+  {
+    "name": "Michelle Burkland",
+    "position": "Alexa - Regional Director, for The Americas ",
+    "company": "Amazon",
+    "address": "1234 Oak St, Seattle, WA",
+    "phoneNumbers": [
+      { "type": "M", "value": "(202) 570-5557" },
+      { "type": "B", "value": "(202) 442-2949" },
+      { "type": "H", "value": "(202) 266-1000" }
+    ],
+    "emails": [
+      { "type": "B", "value": "someuser@amazon.com" },
+      { "type": "P", "value": "anotheruserwithalongemail@yahoo.com" }
+    ]
+  },
+
+  {
+    "name": "Gail Bushansky",
+    "position": "Senior Account Executive, Amazon Advertising ",
+    "company": "Amazon",
+    "address": "1234 Oak St, Seattle, WA",
+    "phoneNumbers": [
+      { "type": "M", "value": "(202) 570-5557" },
+      { "type": "B", "value": "(202) 442-2949" },
+      { "type": "H", "value": "(202) 266-1000" }
+    ],
+    "emails": [
+      { "type": "B", "value": "someuser@amazon.com" },
+      { "type": "P", "value": "anotheruserwithalongemail@yahoo.com" }
+    ]
+  },
+
+  {
+    "name": "Daniel Carpenter",
+    "position": "Chief Financial Officer (CFO) / Vice President, Finance - WW Operations ",
+    "company": "Amazon",
+    "address": "1234 Oak St, Seattle, WA",
+    "phoneNumbers": [
+      { "type": "M", "value": "(202) 570-5557" },
+      { "type": "B", "value": "(202) 442-2949" },
+      { "type": "H", "value": "(202) 266-1000" }
+    ],
+    "emails": [
+      { "type": "B", "value": "someuser@amazon.com" },
+      { "type": "P", "value": "anotheruserwithalongemail@yahoo.com" }
+    ]
+  },
+
+  {
+    "name": "Sean Carr",
+    "position": "Principal Software Development Engineer ",
+    "company": "Amazon",
+    "address": "1234 Oak St, Seattle, WA",
+    "phoneNumbers": [
+      { "type": "M", "value": "(202) 570-5557" },
+      { "type": "B", "value": "(202) 442-2949" },
+      { "type": "H", "value": "(202) 266-1000" }
+    ],
+    "emails": [
+      { "type": "B", "value": "someuser@amazon.com" },
+      { "type": "P", "value": "anotheruserwithalongemail@yahoo.com" }
+    ]
+  },
+
+  {
+    "name": "Jacob Cassidy",
+    "position": "Director, Safety & Regulatory Affairs ",
+    "company": "Amazon",
+    "address": "1234 Oak St, Seattle, WA",
+    "phoneNumbers": [
+      { "type": "M", "value": "(202) 570-5557" },
+      { "type": "B", "value": "(202) 442-2949" },
+      { "type": "H", "value": "(202) 266-1000" }
+    ],
+    "emails": [
+      { "type": "B", "value": "someuser@amazon.com" },
+      { "type": "P", "value": "anotheruserwithalongemail@yahoo.com" }
+    ]
+  },
+
+  {
+    "name": "Sharon Cauthron",
+    "position": "Head of APN Partner Program Operations ",
+    "company": "Amazon",
+    "address": "1234 Oak St, Seattle, WA",
+    "phoneNumbers": [
+      { "type": "M", "value": "(202) 570-5557" },
+      { "type": "B", "value": "(202) 442-2949" },
+      { "type": "H", "value": "(202) 266-1000" }
+    ],
+    "emails": [
+      { "type": "B", "value": "someuser@amazon.com" },
+      { "type": "P", "value": "anotheruserwithalongemail@yahoo.com" }
+    ]
+  },
+
+  {
+    "name": "Ryan Chiarella",
+    "position": "Vice President ",
+    "company": "Amazon",
+    "address": "1234 Oak St, Seattle, WA",
+    "phoneNumbers": [
+      { "type": "M", "value": "(202) 570-5557" },
+      { "type": "B", "value": "(202) 442-2949" },
+      { "type": "H", "value": "(202) 266-1000" }
+    ],
+    "emails": [
+      { "type": "B", "value": "someuser@amazon.com" },
+      { "type": "P", "value": "anotheruserwithalongemail@yahoo.com" }
+    ]
+  },
+
+  {
+    "name": "Andrew Chien",
+    "position": "Head of CRM - AWS Worldwide Revenue Operations ",
+    "company": "Amazon",
+    "address": "1234 Oak St, Seattle, WA",
+    "phoneNumbers": [
+      { "type": "M", "value": "(202) 570-5557" },
+      { "type": "B", "value": "(202) 442-2949" },
+      { "type": "H", "value": "(202) 266-1000" }
+    ],
+    "emails": [
+      { "type": "B", "value": "someuser@amazon.com" },
+      { "type": "P", "value": "anotheruserwithalongemail@yahoo.com" }
+    ]
+  },
+
+  {
+    "name": "Mark Craft",
+    "position": "Director, Creative ",
+    "company": "Amazon",
+    "address": "1234 Oak St, Seattle, WA",
+    "phoneNumbers": [
+      { "type": "M", "value": "(202) 570-5557" },
+      { "type": "B", "value": "(202) 442-2949" },
+      { "type": "H", "value": "(202) 266-1000" }
+    ],
+    "emails": [
+      { "type": "B", "value": "someuser@amazon.com" },
+      { "type": "P", "value": "anotheruserwithalongemail@yahoo.com" }
+    ]
+  }
+]
