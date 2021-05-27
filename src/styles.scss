@@ -10,7 +10,7 @@ $btn-hover-color: $brand-color;
 $link-color: $primary-color;
 $link-hover-color: $brand-color;
 $header-bg-color: $brand-color;
-$footer-bg-color: $brand-color;
+$footer-bg-color: $primary-color;
 
 .app {
   position: relative;
@@ -105,6 +105,13 @@ a {
 .btn {
   border-radius: 100px;
   color: $btn-color;
+
+  &.btn-icon {
+    &.btn-sm {
+      padding-left: 3px !important;
+      padding-right: 3px !important;
+    }
+  }
 }
 
 .border {
@@ -160,6 +167,7 @@ a {
     color: $link-hover-color;
   }
 }
+
 
 .byline {
   color: hsl(0, 0%, 40%);

@@ -8,6 +8,7 @@ import {
   faBars,
   faBriefcase,
   faEllipsisV,
+  faPencilAlt,
   faEye,
   faFlag,
   faUser,
@@ -46,6 +47,8 @@ function copyToClipboard(text) {
 }
 
 export default function App() {
+  const [searchText, setSearchText] = useState("Amazon");
+
   const [expanded, setExpanded] = useState(
     new Array(records.length).fill(false)
   );
@@ -100,20 +103,33 @@ export default function App() {
             </div>
           </div>
           <div className="panel-body">
-            <div className=""></div>
+            <div className="d-flex px-3 pt-3">
+              <select className="me-2 px-2">
+                <option>Company</option>
+                <option>Person</option>
+              </select>
+              <input
+                type="search"
+                className="flex-grow-1 px-2"
+                value={searchText}
+                onChange={(evt) => {
+                  setSearchText(evt.target.value);
+                }}
+              />
+            </div>
             <div className="d-flex flex-wrap p-3">
               {/* <div className="pe-3">Filters:</div> */}
-              <button className="btn btn-sm btn-outline-secondary me-1">
+              {/* <button className="btn btn-sm btn-outline-secondary me-1">
                 <FontAwesomeIcon icon={faTimes} className="me-1" /> Amazon
-              </button>
+              </button> */}
               <button className="btn btn-sm btn-outline-secondary me-1">
                 <FontAwesomeIcon icon={faTimes} className="me-1" /> Directors
               </button>
               <button className="btn btn-sm btn-outline-secondary me-1">
                 <FontAwesomeIcon icon={faTimes} className="me-1" /> Managers
               </button>
-              <button className="btn btn-sm btn-outline-secondary me-1">
-                <FontAwesomeIcon icon={faPlus} className="" />
+              <button className="btn btn-sm btn-icon btn-outline-secondary me-1">
+                <FontAwesomeIcon icon={faPencilAlt} className="fa-fw" />
               </button>
             </div>
 
@@ -386,7 +402,10 @@ export default function App() {
                                 >
                                   <a
                                     className="btn btn-link t-3"
-                                    href="https://maps.google.com"
+                                    href={`https://www.google.com/maps/place/${record.address.replace(
+                                      " ",
+                                      "+"
+                                    )}`}
                                     rel="noreferrer"
                                     target="_blank"
                                   >
@@ -407,11 +426,13 @@ export default function App() {
                                   />{" "}
                                   <a
                                     className="btn btn-link t-3"
-                                    href="https://linkedin.com"
+                                    href={`https://linkedin.com/in/${record.name
+                                      .replace(" ", "")
+                                      .toLowerCase()}`}
                                     rel="noreferrer"
                                     target="_blank"
                                   >
-                                    {`linkedin.com/${record.name
+                                    {`linkedin.com/in/${record.name
                                       .replace(" ", "")
                                       .toLowerCase()}`}
                                   </a>
